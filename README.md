@@ -3,6 +3,6 @@ This is a collection of the examples found in the book Head First Design Pattern
 
 ## Installation
 * grab the dotnet cli: https://github.com/dotnet/cli
-* dotnet new
+* navigate to pattern directory
 * dotnet restore
 * dotnet run
